@@ -1,4 +1,4 @@
-# GN_QuickCheck-
+# GN_QuickCheck-( October 2025)
 GN QuickCheck - UX Design & Prototyping
 GN QuickCheck is a digital platform designed to streamline access to Grama Niladhari (GN) services in Sri Lanka. This group project aims to reduce stress, uncertainty, and inefficiency for citizens seeking essential documents like NICs, certificates, verifications, and permits.
 
